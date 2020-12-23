@@ -1,6 +1,6 @@
 <?php
 
-define ('PAGINATION_COUNT' , 2);
+ define ('PAGINATION_COUNT' , 2);
 
 Route::group([
         'prefix' => LaravelLocalization::setLocale(),
